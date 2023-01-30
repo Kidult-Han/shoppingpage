@@ -1,0 +1,33 @@
+.CartDiv {
+   margin-left: 300px;
+}
+.shoppingCart {
+  display: grid;
+ 
+}
+.shoppingImg {
+  width: 100px;
+  height: 100px;
+ 
+}
+.shoppingInfo {
+  display: flex;
+  margin-left:20px;
+  
+}
+.shoppingButton {
+  background-color: transparent;
+  border: 2px solid rgb(18, 18, 17);
+  min-width: 100px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 15px;
+}
+
+.shoppingButton:hover {
+  background-color: rgb(236, 149, 8);
+  color: white;
+  cursor: pointer;
+}

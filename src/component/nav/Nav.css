@@ -1,0 +1,14 @@
+.LinkIcon{
+    font-size: 40px;
+     color:orange; 
+     padding: 20px 0
+}
+.Div{
+    width:160px;
+    top: 27%;
+    position: fixed;
+    background-color: rgb(238, 240, 232);
+}
+.Span{
+    font-size: 22px
+}
